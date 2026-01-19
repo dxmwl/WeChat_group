@@ -47,7 +47,7 @@
       <td>鸿蒙开发者交流群</td>
       <td>IT互联网</td>
       <td>小码哥</td>
-      <td><img src="./it/images/IT04.png" alt="鸿蒙开发者交流群二维码" width="100" height="100"></td>
+      <td><img src="it/images/IT0001.png" alt="鸿蒙开发者交流群二维码" width="100" height="100"></td>
       <td>鸿蒙开发者聚集地</td>
       <td>低</td>
     </tr>

@@ -8,14 +8,14 @@
 
 ## 目录结构
 
-- [IT互联网](./groups/it.md)
-- [设计创意](./groups/design.md)
-- [市场营销](./groups/marketing.md)
-- [教育培训](./groups/education.md)
-- [金融投资](./groups/finance.md)
-- [医疗健康](./groups/health.md)
-- [创业交流](./groups/startup.md)
-- [其他行业](./groups/others.md)
+- [IT互联网](./groups/it/it.md)
+- [设计创意](./groups/design/design.md)
+- [市场营销](./groups/marketing/marketing.md)
+- [教育培训](./groups/education/education.md)
+- [金融投资](./groups/finance/finance.md)
+- [医疗健康](./groups/health/health.md)
+- [创业交流](./groups/startup/startup.md)
+- [其他行业](./groups/others/others.md)
 
 ## 运行方式
 
@@ -37,7 +37,7 @@
 
 ### 添加新群组格式
 
-```markdown
+```
 ### 群组名称
 **行业/领域**: [填写具体领域]
 **群主/推荐人**: [可选]

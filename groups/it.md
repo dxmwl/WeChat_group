@@ -47,7 +47,7 @@
       <td>程序员技术交流群</td>
       <td>编程开发</td>
       <td>张三</td>
-      <td>[在此处添加二维码图片]</td>
+      <td><img src="./images/IT01.png" alt="程序员技术交流群二维码" width="100" height="100"></td>
       <td>讨论各种编程语言、框架、算法等相关技术话题</td>
       <td>高</td>
     </tr>
@@ -56,7 +56,7 @@
       <td>产品经理交流群</td>
       <td>产品设计</td>
       <td>李四</td>
-      <td>[在此处添加二维码图片]</td>
+      <td><img src="./images/IT02.png" alt="产品经理交流群二维码" width="100" height="100"></td>
       <td>分享产品设计经验、讨论用户增长、产品运营策略</td>
       <td>中</td>
     </tr>
@@ -65,7 +65,7 @@
       <td>互联网求职交流群</td>
       <td>求职招聘</td>
       <td>王五</td>
-      <td>[在此处添加二维码图片]</td>
+      <td><img src="./images/IT03.png" alt="互联网求职交流群二维码" width="100" height="100"></td>
       <td>互联网行业求职经验分享、面试技巧交流</td>
       <td>高</td>
     </tr>
@@ -74,7 +74,7 @@
       <td>鸿蒙开发者交流群</td>
       <td>IT互联网</td>
       <td>小码哥</td>
-      <td>![鸿蒙开发者交流群二维码](./images/IT04.png)</td>
+      <td><img src="./images/IT04.png" alt="鸿蒙开发者交流群二维码" width="100" height="100"></td>
       <td>鸿蒙开发者聚集地</td>
       <td>低</td>
     </tr>

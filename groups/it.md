@@ -32,44 +32,49 @@
 <table>
   <thead>
     <tr>
+      <th>编号</th>
       <th>群组名称</th>
       <th>行业/领域</th>
       <th>群主/推荐人</th>
-      <th>入群方式</th>
+      <th>二维码</th>
       <th>群介绍</th>
       <th>活跃度</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>IT01</td>
       <td>程序员技术交流群</td>
       <td>编程开发</td>
       <td>张三</td>
-      <td>- 二维码: [在此处添加二维码图片]<br>- 邀请人: wxid_123456</td>
+      <td>[在此处添加二维码图片]</td>
       <td>讨论各种编程语言、框架、算法等相关技术话题</td>
       <td>高</td>
     </tr>
     <tr>
+      <td>IT02</td>
       <td>产品经理交流群</td>
       <td>产品设计</td>
       <td>李四</td>
-      <td>- 二维码: [在此处添加二维码图片]<br>- 邀请人: wxid_789012</td>
+      <td>[在此处添加二维码图片]</td>
       <td>分享产品设计经验、讨论用户增长、产品运营策略</td>
       <td>中</td>
     </tr>
     <tr>
+      <td>IT03</td>
       <td>互联网求职交流群</td>
       <td>求职招聘</td>
       <td>王五</td>
-      <td>- 二维码: [在此处添加二维码图片]<br>- 邀请人: wxid_345678</td>
+      <td>[在此处添加二维码图片]</td>
       <td>互联网行业求职经验分享、面试技巧交流</td>
       <td>高</td>
     </tr>
     <tr>
+      <td>IT04</td>
       <td>鸿蒙开发者交流群</td>
       <td>IT互联网</td>
       <td>小码哥</td>
-      <td>- 二维码: ![鸿蒙开发者交流群二维码](./images/IT04_harmonyos_developer_qr.png)<br>- 邀请人: dxmcpjl</td>
+      <td>![鸿蒙开发者交流群二维码](./images/IT04.png)</td>
       <td>鸿蒙开发者聚集地</td>
       <td>低</td>
     </tr>
